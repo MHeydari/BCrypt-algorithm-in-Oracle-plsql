@@ -1,9 +1,8 @@
 # BCrypt algorithm
- Implementation of BCrypt hashing in Oracle Plsql 
- 
-BCrypt is a hashing function widely used for password-hashing.
-This library will implement BCrypt as a procedure in Oracle RDBMS.
+<a href="https://en.wikipedia.org/wiki/Bcrypt"><img src="https://gitlab.unc.edu.ar/uploads/-/system/project/avatar/642/bcrypt.jpeg" width="180" height="158" alt="BCrypt is a hashing function widely used for password-hashing"/></a>
 
+### This library will implement BCrypt as a procedure in Oracle RDBMS.
+<p/>
 <b>Story:</b><br>
 We faced a legacy DOS based application with plain text passwords.
 Our new platform was a Java, Spring, Oracle Web application where spring-security used BCrypt as its password hashing method.
