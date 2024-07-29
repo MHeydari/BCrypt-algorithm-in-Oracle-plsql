@@ -11,3 +11,5 @@ Our new platform was a Java, Spring, Oracle Web application.The spring-security 
 In data migrate process, due to large data amount and the nature of the algorithm (slow-hashing), our optimum solution was to implement hashing function inside RDBMS.
 
 The library is using strength of 12 by default, so the number of iterations are (2^12).
+
+The BCrypt algoritm is implemented by a Java stored procedure (bcrypt Algorithm.func), you will need to compile it inside Oracle database (tested on v9) then the procedure will be accessible through plsql (unitTest.sql)
