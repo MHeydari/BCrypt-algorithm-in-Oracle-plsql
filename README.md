@@ -1,6 +1,6 @@
 # BCrypt algorithm
 <a href="https://en.wikipedia.org/wiki/Bcrypt">
-<img src="https://media.licdn.com/dms/image/D4D12AQFtLQmuUSXc0A/article-cover_image-shrink_423_752/0/1664751059161?e=1684368000&v=beta&t=--pnbYbTh1CDmFCtWyj1uWfWp6M8jJU7mM70qZ7JKl4" width="140" height="100" align="right"/>
+<img src="[https://media.licdn.com/dms/image/D4D12AQFtLQmuUSXc0A/article-cover_image-shrink_423_752/0/1664751059161?e=1684368000&v=beta&t=--pnbYbTh1CDmFCtWyj1uWfWp6M8jJU7mM70qZ7JKl4](https://cybersensor.wordpress.com/wp-content/uploads/2018/08/bcrypt-logo.jpg)" width="140" height="100" align="right"/>
 </a>
 
 ### This library will implement <a href="https://en.wikipedia.org/wiki/Bcrypt">BCrypt</a> as a procedure in Oracle RDBMS.
