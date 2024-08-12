@@ -3,7 +3,7 @@
 <img src="https://cybersensor.wordpress.com/wp-content/uploads/2018/08/bcrypt-logo.jpg" align="right"/>
 </a>
 
-### This library will implement <a href="https://en.wikipedia.org/wiki/Bcrypt">BCrypt</a> as a procedure in Oracle RDBMS.
+### This library will implement <a href="https://en.wikipedia.org/wiki/Bcrypt">BCrypt</a> as a java procedure in Oracle RDBMS.
 <p/>
 <b>Story:</b><br>
 We faced a legacy DOS based application with plain text passwords.
